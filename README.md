@@ -2,7 +2,9 @@
 - I’m interested in all about programming stuff
 - I’m currently learning to program Android Apps
 - I’m looking to collaborate on back end and front end projects
+- More than 10 years of experience on C# and VFP
 - How to reach me at eb_805alvarado@hotmail.es
+
 
 <!---
 Halo805/Halo805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
